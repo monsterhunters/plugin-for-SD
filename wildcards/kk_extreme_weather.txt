@@ -1,0 +1,100 @@
+﻿Tornado: A violent rotating column of air that extends from a thunderstorm cloud to the ground, causing severe destruction
+Hurricane: A large, rotating storm with strong winds and heavy rainfall, typically forming over warm ocean waters
+Blizzard: A severe winter storm characterized by low temperatures, strong winds, and heavy snowfall, resulting in reduced visibility
+Heatwave: An extended period of excessively hot weather, often accompanied by high humidity, leading to heat-related health risks
+Monsoon: A seasonal wind pattern that brings heavy rainfall, often leading to flooding and widespread precipitation
+Sandstorm: An atmospheric phenomenon where strong winds lift and transport large amounts of sand and dust, reducing visibility
+Hailstorm: A storm characterized by the formation of hailstones, which are balls or irregular lumps of ice that fall from the sky
+Thunderstorm: A storm characterized by thunder and lightning, often accompanied by heavy rain, strong winds, and sometimes hail
+Cyclone: A large-scale weather system characterized by inwardly spiraling winds around a low-pressure center, typically associated with strong storms
+Tsunami: A series of ocean waves caused by large-scale disturbances, such as earthquakes, volcanic eruptions, or landslides
+Drought: A prolonged period of abnormally dry weather, resulting in water scarcity, crop damage, and ecological impacts
+Polar vortex: A large area of low-pressure and cold air that surrounds the Earth's poles, leading to frigid temperatures and severe winter conditions
+Arctic blast: A sudden and intense influx of bitterly cold Arctic air into a region, causing a rapid drop in temperatures
+Ice storm: A weather event in which freezing rain coats surfaces with a layer of ice, causing hazards such as downed power lines and slippery roads
+Flash flood: A sudden and rapid flooding of normally dry areas, typically caused by intense rainfall within a short period or by a dam or levee failure
+Tidal wave: A large and powerful ocean wave, typically caused by seismic activity or underwater landslides
+Nor'easter: A severe storm that primarily affects the northeastern coast of North America, bringing strong winds, heavy precipitation, and coastal flooding
+Haboob: An intense dust storm characterized by a wall of dust and sand carried by strong winds, often occurring in arid regions
+Derecho: A widespread, long-lived windstorm associated with a line of severe thunderstorms, featuring straight-line winds and potentially destructive gusts
+Microburst: A localized column of sinking air within a thunderstorm, causing a strong and concentrated downdraft, often leading to severe wind gusts at the surface
+Supercell thunderstorm: A long-lived and highly organized thunderstorm characterized by a rotating updraft, capable of producing severe weather, including tornadoes
+Waterspout: A tornado that forms over water, typically in a severe thunderstorm or tropical cyclone, appearing as a funnel-shaped cloud extending from the surface of the water
+Heat lightning: Distant lightning flashes that are visible on the horizon, usually occurring in a thunderstorm too far away for the thunder to be heard
+Ice pellets: Small, translucent pellets of ice that form when raindrops freeze before reaching the ground, also known as sleet
+Freezing rain: Rain that falls as a liquid but freezes upon contact with cold surfaces, forming a coating of ice, leading to hazardous conditions
+Whiteout conditions: Extreme weather conditions, such as heavy snowfall and blowing snow, that reduce visibility to the point of near-zero visibility
+Solar flare: A sudden and intense eruption on the Sun's surface that releases a burst of energy, including X-rays and ultraviolet radiation
+Blinding fog: Thick fog that severely reduces visibility, making it difficult or impossible to see more than a few meters ahead
+Wildfire: An uncontrolled fire that rapidly spreads across vegetation and forested areas, often fueled by dry conditions and strong winds
+Avalanches: Rapid and violent mass movements of snow, ice, and debris down steep slopes, posing significant hazards to human activity
+Shifting sand dunes: The movement of sand dunes due to wind erosion and deposition, leading to changing landscapes and potential hazards
+Mudslide: The rapid downhill movement of soil, rock, and debris, often triggered by heavy rain, causing significant damage to structures and landscapes
+Landslide: The movement of a mass of soil, rock, or debris down a slope, often triggered by earthquakes, heavy rainfall, or human activities
+Freezing fog: Fog that forms when the temperature is below freezing, resulting in the formation of ice crystals on surfaces
+Steam fog: Fog that forms when cold air moves over relatively warm water, causing water vapor to rise and condense into fog
+Black ice: A thin, transparent layer of ice on roads and other surfaces that is difficult to detect, posing a significant danger to drivers and pedestrians
+Hailstones the size of golf balls: Large hailstones with a diameter comparable to that of golf balls, capable of causing significant damage to property and crops
+Severe dust devils: Powerful and well-formed rotating columns of air that pick up dust and debris from the ground, resembling small tornadoes
+Heavy sleet: A combination of rain and ice pellets, typically occurring during winter storms, creating hazardous road conditions
+Glacial melting: The gradual thawing and retreat of glaciers and ice sheets due to rising temperatures, leading to rising sea levels and environmental impacts
+Sudden gusty winds: Abrupt and powerful bursts of wind, often associated with thunderstorms, downbursts, or the leading edge of a cold front
+Fire tornado (firenado): A tornado-like vortex of flames and smoke created by intense heat and strong winds in wildfires
+Freezing drizzle: Drizzle that falls as a liquid but freezes upon contact with surfaces, creating a glaze of ice and hazardous conditions
+Pyroclastic flow: A fast-moving current of hot gas, ash, and volcanic debris that rushes down the slopes of a volcano during an eruption, posing a significant threat
+Acid rain: Rainfall with a high concentration of acidic pollutants, typically caused by emissions from industrial processes and combustion of fossil fuels
+Firestorm: A large and exceptionally intense fire that generates its own wind system, producing strong updrafts and creating dangerous fire conditions
+Sudden onset of extreme cold: A rapid drop in temperature, often associated with the intrusion of cold air masses or Arctic outbreaks
+Heat bursts: Sudden and intense increases in temperature accompanied by dry and gusty winds, often occurring after the passage of a thunderstorm or during intense wildfires
+Violent hailstorm: A hailstorm characterized by large and destructive hailstones, causing damage to property, crops, and infrastructure
+Fire whirls: Vertical vortices of fire that form during intense wildfires, resembling tornadoes and capable of spreading the fire rapidly
+Dust plumes: Large-scale clouds of dust and debris that become airborne due to strong winds, causing reduced visibility and air quality issues
+Heat index exceeding 100°F (378°C): A measure of how hot it feels when relative humidity is factored in with the actual air temperature, indicating potentially dangerous heat levels
+Snow squalls: Intense, localized bursts of heavy snowfall, often accompanied by strong winds, reduced visibility, and rapid accumulation of snow
+Category 5 hurricane: The most severe category on the Saffir-Simpson Hurricane Wind Scale, indicating sustained winds of 157 mph (252 km/h) or higher
+Roaring thunder: Thunder that produces exceptionally loud and rumbling sounds, often associated with severe thunderstorms and intense atmospheric conditions
+Blistering heat: Extreme heat conditions with high temperatures and intense solar radiation, capable of causing heat-related illnesses and discomfort
+Storm surge: A rise in sea level caused by a combination of low atmospheric pressure, strong winds, and the onshore flow of water during a storm, leading to coastal flooding
+Intense tropical rain: Heavy and prolonged rainfall associated with tropical systems, causing flooding, landslides, and disruptions to infrastructure
+Gale-force winds: Strong winds with speeds ranging from 39 to 54 mph (63 to 87 km/h), capable of causing damage to structures and affecting transportation
+Sudden and severe lightning: Intense and frequent lightning discharges that pose a significant threat to outdoor activities and can ignite wildfires
+Severe drought leading to desertification: A long-lasting and severe lack of rainfall, causing water scarcity, soil degradation, and the transformation of fertile land into desert
+Frost quakes (cryoseisms): Sudden and loud booms caused by the rapid freezing of water-saturated soil or rock, leading to the expansion and subsequent cracking of the ground
+Solar radiation storm: An increase in energetic particles, such as protons and electrons, emitted by the Sun during solar flares or coronal mass ejections, potentially impacting satellite communications and astronauts
+Record-breaking low temperatures: Extreme cold temperatures that set new all-time or seasonal records, often associated with Arctic air masses or cold air outbreaks
+Ice fog: Fog composed of suspended ice crystals, formed in very cold temperatures when water vapor directly transitions to ice without passing through the liquid phase
+Persistent heavy snowfall: Continuous and heavy snowfall over an extended period, resulting in significant snow accumulation and potential disruptions to transportation and daily life
+Wind chill reaching dangerous levels: The combined effect of air temperature and wind speed on the perception of cold, resulting in a lower "feels-like" temperature and increased risk of frostbite and hypothermia
+Solar eclipse: A celestial event in which the Moon passes between the Sun and Earth, temporarily blocking the Sun's light and creating a dramatic reduction in daylight
+Habagat: A seasonal wind in the Philippines that brings heavy rainfall and increased humidity, often causing flooding and landslides
+Shelf cloud: A low, horizontal cloud formation that appears as a wedge or arc-shaped shelf at the leading edge of a thunderstorm, often associated with gusty winds and heavy rain
+Haboobnado: A rare meteorological phenomenon in which a haboob (intense dust storm) and tornado occur simultaneously, creating a hazardous and destructive weather event
+Frostbite: A condition caused by freezing of the skin and underlying tissues due to exposure to cold temperatures, leading to damage and potential loss of affected body parts
+Pyrocumulonimbus: A thunderstorm generated by a large wildfire, characterized by towering cloud formations, lightning, and the potential to generate severe weather, including fire tornadoes
+Ice storm warning: A severe weather warning issued when significant ice accumulation is expected due to freezing rain, posing hazards to travel, power lines, and infrastructure
+Wind shear: The variation in wind speed or direction over a short distance, often associated with severe thunderstorms, microbursts, and aviation hazards
+Blackout blizzard: A blizzard accompanied by power outages, resulting from the combination of heavy snowfall, strong winds, and ice accumulation on power lines
+Polar low: A small-scale, short-lived weather system that forms over polar or near-polar regions, characterized by intense snowfall, strong winds, and extremely cold temperatures
+Heat dome: A high-pressure system that traps hot air beneath it, causing prolonged heatwaves and extreme temperatures, often associated with stagnant atmospheric conditions
+Rime ice: An accumulation of ice formed by the rapid freezing of supercooled water droplets on surfaces, resulting in a white, frost-like coating
+Storm surge warning: A warning issued to coastal areas when a storm surge, caused by a tropical cyclone or severe storm, is expected to pose a significant threat to life and property
+Fire weather warning: A warning issued when weather conditions, such as high temperatures, low humidity, and strong winds, create an elevated risk of wildfires or rapid fire spread
+Cold front: The leading edge of a mass of cold air that replaces a region's warmer air mass, often associated with strong winds, thunderstorms, and temperature drops
+Heat index above 105°F (406°C): A measure of how hot it feels when combining air temperature and humidity, indicating extreme heat levels with a high risk of heat-related illnesses
+Snow rollers: Rare natural phenomena where wind rolls large snowballs across a snow-covered field, creating cylindrical or wheel-like shapes
+Hurricane watch: A warning issued when there is a possibility of hurricane conditions, including sustained winds of 74 mph (119 km/h) or higher, within a specified coastal area within 48 hours
+Sudden stratospheric warming: A rapid increase in temperatures in the stratosphere, which can disrupt the polar vortex and potentially lead to extreme winter weather patterns
+Frost flowers: Delicate ice structures that form on the surface of plants or other objects when the air temperature is below freezing, creating intricate patterns resembling flowers
+Severe thunderstorm watch: A notification that atmospheric conditions are favorable for the development of severe thunderstorms, including damaging winds, large hail, and potentially tornadoes, within a specified area
+Snowmageddon: A colloquial term used to describe an exceptionally heavy snowfall event, often leading to significant disruption of transportation, power outages, and infrastructure damage
+Derecho warning: A warning issued when a derecho, a widespread and long-lived windstorm associated with a line of severe thunderstorms, is expected to impact a specific area within a specified time frame
+Flood advisory: A notification that minor flooding is occurring or imminent in specific areas, urging caution and preparedness for potential flooding impacts
+Heat exhaustion: A heat-related illness characterized by symptoms such as heavy sweating, weakness, dizziness, nausea, and headaches, resulting from prolonged exposure to high temperatures
+Tornado warning: An urgent alert issued when a tornado has been detected by weather radar or spotted by trained storm spotters, indicating an immediate threat to life and property in the warned area
+Avalanche warning: A warning issued when there is a significant risk of avalanches in mountainous regions, advising against travel or recreational activities in avalanche-prone areas
+Windstorm: A weather event characterized by strong and damaging winds, often associated with intense low-pressure systems, frontal boundaries, or thunderstorms
+Blizzard warning: A warning issued when a blizzard, characterized by sustained winds or frequent gusts of 35 mph (56 km/h) or higher, accompanied by considerable falling and/or blowing snow, is expected or occurring, creating hazardous conditions and reduced visibility
+Snowstorm: A weather event characterized by heavy snowfall, reduced visibility, and potentially strong winds, leading to snow accumulation and potential disruptions to transportation and daily life
+Extreme ultraviolet index (UV index): A measure of the intensity of ultraviolet (UV) radiation from the Sun, indicating the risk of skin damage and sunburn, with values above 10 considered extremely high
+Atmospheric river: A narrow and elongated corridor of enhanced moisture transport in the atmosphere, capable of delivering heavy precipitation and causing flooding in affected regions
+Tropical cyclone: A rotating storm system characterized by a low-pressure center, strong winds, and thunderstorm activity, known as hurricanes in the Atlantic and Northeast Pacific, typhoons in the Northwest Pacific, and cyclones in the Indian Ocean and South Pacific
