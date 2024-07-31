@@ -9,3 +9,5 @@ standing
 sitting
 lying
 leg up,standing on one leg
+assup, top-down bottom-up, from behind
+arms up 
